@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Smartphone (please complete the following information):**
+**TV/STB (TV Box) (please complete the following information):**
  - Device: [e.g. X96 TV Box]
  - OS: [e.g. Android 12]
 
